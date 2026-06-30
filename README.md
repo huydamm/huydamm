@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Huy Dam!
-👨🏻‍💻 AI/ML & Computer Vision enthusiast, Computer Engineer <br/>
-🎓 Studying Computer Engineering at the University of Massachusetts, Amherst <br/>
-🔌 I build things where software meets the real world — from cameras and sensors to live web apps <br/>
+👨🏻‍💻 AI/ML, Computer Vision and fullstack enthusiast <br/>
+🎓 Computer Engineering at the University of Massachusetts, Amherst <br/>
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hdam@umass.edu) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/huydamm)
