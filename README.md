@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Huy 👋</h1>
 
 <p align="center">
-  CS student at <b>UMass Amherst</b> who likes building things that touch the real world —
+  Computer Engineering student at <b>UMass Amherst</b> who likes building things that touch the real world —
   AI that reads a poker table, a map that finds you a quiet place to study, sensors wired to code.
 </p>
 
